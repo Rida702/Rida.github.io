@@ -1,0 +1,46 @@
+To make a Git repository: 
+
+1. git config --global user.name
+2. git config --global user.email "bcsf20m541@pucit.edu.pk"
+3. git config --global user.name Rida702
+4. touch .gitignore
+	.git ignore is an optional filr
+	you make it and then put the name of the file inside it that you want to ignore
+	it is done when a file size is too big and u don't want to add it in your repository
+5. git init
+	that will initialize your git and make a .git folder
+6. git add .
+	-------> means add all the content to the staging area
+7. git commit -m "initial commit"
+	whenever u do commit u take a snap shot of it
+	git add and git commit kar k jo changes kie use aik snapshot se associate kar dete ho
+	initial commit because haven't change anything yet
+8. git status
+	On branch master
+	nothing to commit, working tree clean
+	means you are ready to publish your project
+9. Create a New repository in Github and Click on SSH copy the link
+10. git remote add origin git@github.com:Rida702/Blog-Website.git
+	it means all the contents of this project will go at this link of github
+11. git push origin master 
+	this command will fail because u are uploading a private repository
+	so you have to make an authentication
+12. generate SSH key
+13. ssh-keygen -t rsa -b 4096 -C "bcsf20m541@pucit.edu.pk"
+	command not fount
+	passphrase rida
+14. ssh-keygen -t ed25519 -C "bcsf20m541@pucit.edu.pk"
+	Your public key has been saved in /c/Users/abu musa traders/.ssh/id_ed25519.pub
+	this is path of my key
+15. tail, cat /c/Users/abu musa traders/.ssh/id_ed25519.pub
+it will get the whole ssh key
+17. git remote add origin <git project url>
+18. git push origin master (it pushed successfully)
+19. if you changed something in your project, 
+Do this
+20. git add .
+21. git commit -m "Added cheatsheet"
+22. git push origin master
+23. GitHub Desktop is better you can use that too  
+
+SID=S-1-5-21-4258671138-3273944237-4185519291-1001

@@ -1,0 +1,298 @@
+Hey Guys.... Cleaning up my PC and found this roadmap I created in order to track my self-taught journey... Didn't Update much for quite some time... But still relevant:
+
+```
+# PERSONAL ROAD MAP
+
+---
+
+# Web Basics
+
+---
+
+# HTML:
+
+- BoilerPlate
+- Basics: Tags/ Elements
+- Buttons
+- Links
+- Images
+- Forms/ Inputs
+- Element Grouping/ DIVs
+- Lists
+- Linking Pages and Page Section
+- HTML Validation
+- HTML Semantics
+
+---
+
+# CSS:
+
+- Style Tags
+- Inline
+- Internal
+- External
+- Attaching style sheets
+- Size and Borders
+- Box Model
+- Padding (with shortcut)
+- Corners (with shortcut)
+- Element Rotation
+- Blurring Elements
+- Gray out images
+- Building filters
+- Gradients
+- Classes
+- Adding Color HEX
+- Grouping Selectors
+- Displaying Elements
+- Floats
+- Relative Pos
+- Absolute Pos
+- Z-index
+- FlexBox
+- Flex direction
+- Flex Axis
+- Justifying Rows and Cols
+- Aligning Rows and Cols
+- Wrapping Flex Items
+- Aligning wrapped Rows
+- Flex items and Initial Size
+- Flex Grow/Shrink
+- Flex shortHand
+- Grid Col
+- Grid Row
+- Defining Rows and Cols GRID
+- Grid Gaps
+- Defining Grid Item Size
+- Naming Grid Areas(cells)
+- Section using named areas
+- Aligning grid items
+- Combining Flex and Grid
+- Pseudo Elements
+- Validators
+- Debugging and Resources
+- Box Sizing: UNIVERSAL SETTING
+- Dev Tool Inspect
+- Block VS Inline VS Inline-Block
+
+---
+
+# Design:
+
+- Web Personalities
+- Typography Rules
+- Google Fonts
+- FontAwesome
+- Color rules
+- Color companion, Tailwind CSS, UI COLOR
+- Adding Icons: Font Google, Hero Icons
+
+---
+
+# JAVASCRIPT:
+
+- Variables
+- Strings
+- Numbers
+- GitHub Account
+- Code War Account
+- Codepen Account
+- JS Primitive Types
+- Equality
+- Comparing
+- Making Decisions If/Else/Else/if
+- Self-Assigment Oper
+- Assigning with Oper
+- For Loops
+- Looping Backwards
+- Arrays
+- Grouping arrays
+- Changing values in Arrays
+- Method: PUSH/POP/SHIFT/UNSHIFT
+- Deciding with Arrays
+- Functions and Reusable Code
+- Creating Parameters
+- Returning Values
+- Mult. Parameters
+- Rest Operator
+- Objects
+- Objects Methods
+- Nesting Conditionals
+- Conditions and Functions
+- Stopping functions with Return
+- Adding loop to function
+- ES6: Arrow Functions
+- Classes
+- Classes with Methods
+- Node JS Download
+- Linking JS Files
+- let vs var vs const
+- Template literals
+- Diff == vs ===
+- Switch Statement
+- Ternary Operators
+- Strict Mode Activation
+- Dot VS Bracket Notation
+- Breaking and continuing Loops
+- Function Declaration VS Expression
+- Array Methods: Slice, Splice, Concat, Join, IndexOf, Join, Push, Pop, Shift, Unshift.
+- Scope Global, Lexical, Local
+- Math()
+- Ternary Operator
+- Function Default Parameter
+- Spread Operator
+- Destructuring Arrays
+- Destructoring Objects
+- Module: Import/Export
+- Promise
+- Fulfill Promise (resolve, then)
+- Rejected Promise with Catch
+
+---
+
+# Command Line
+
+- What is it
+- Basic Commands
+- Bash Shell
+- Mongo Shell
+
+---
+
+# GIT
+
+- What is Version Control
+- Basics of GIT
+- Basic Commands
+- Creating Branches
+
+---
+
+# GitHub
+
+- Creating Repos
+- Cloning
+- Pushing
+- Host
+
+---
+
+# SASS
+
+- Download and set up with NPM
+- MixIns
+- Functions
+- Variables
+- Linked Pages
+- Import/export
+
+---
+
+# Bootstrap
+
+- Linking CDN
+- Linking NPM
+- How to: Basic syntax
+
+---
+
+# jQuery
+
+- Linking with CDN
+- Linking with NPM
+- How to: Basic syntax
+
+---
+
+# React
+
+- How to create-react-app
+- ReactDOM
+- Import/Export
+- .render()
+- Component Functional
+- Props
+- Nesting Components
+- DOM Tree
+- onClick()
+- onChange()
+- onSubmit()
+- .map()
+- useState()
+- setState()
+- useEffect()
+- useContext
+- Portals
+- Wrappers
+- useContext()
+- Redux
+
+# NPM
+
+- Native Modules
+- External Modules
+- Libraries
+
+# NODE
+
+- Server pure Node
+- File System
+
+# EXPRESS
+
+- Server
+- Requires
+- Get/Post
+- Routing
+- Params
+
+# API
+
+- HTTPS
+- Axios
+- XMLHTTP
+- FETCH
+- Postman
+
+# EJS
+
+- Using JS in EJS
+- Partials
+- Variables
+- Dynamic Templates
+
+# MongoDB
+
+- Creating DB
+- Creating Collections
+- Creating Docs
+- CRUD
+
+# Mongoose
+
+- Creating DB
+- Schema
+- Model
+- Connecting
+- CRUD
+
+# MongoDBAtlas
+
+- Cluster
+- CRUD
+- Connect
+
+# MailChimp
+
+- Creating an audience
+- Connecting to App
+- Send confirmation Email
+
+# STRIPE API
+
+- Installing
+- Using
+- Testing
+
+
+```

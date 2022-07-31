@@ -1,0 +1,16 @@
+html {
+  scroll-behavior: smooth;
+  background-color: aqua;
+}
+section {
+  height: 100vh;
+}
+.section1 {
+  background-color: aquamarine;
+}
+.section2 {
+  background-color: red;
+}
+.section3 {
+  background-color: bisque;
+}

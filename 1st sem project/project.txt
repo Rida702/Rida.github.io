@@ -1,0 +1,4 @@
+total responses =282
+age 19-25 =198      mean=0.7
+above 25 =31        mean=0.10
+below 18 =53        mean=0.18
